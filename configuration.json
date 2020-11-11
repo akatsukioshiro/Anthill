@@ -1,0 +1,6 @@
+{
+	"flask_server_ip":"192.168.1.10",
+	"flask_server_port":"5001",
+	"wifi_ssid_esp32":"Excitel",
+	"wifi_pass_esp32":"NBCC@1234"
+}
